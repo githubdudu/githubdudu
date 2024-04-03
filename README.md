@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently studying at UoA ...
+- 💬 Ask me about anything about CSS, JavaScript, React..
+  
 <!--
 **githubdudu/githubdudu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
