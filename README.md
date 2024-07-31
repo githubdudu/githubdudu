@@ -2,7 +2,9 @@
 
 - 🌱 I’m currently studying at UoA ...
 - 💬 Ask me about anything about CSS, JavaScript, React..
-  
+
+
+- LeetCode https://leetcode.com/u/githubdudu/
 <!--
 **githubdudu/githubdudu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
